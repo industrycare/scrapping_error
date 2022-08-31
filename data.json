@@ -1,0 +1,398 @@
+[
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"UndefinedValueError:",
+        "descricao":" DB_ICMAIN_NAME not found. Declare it as envvar or define a default value."
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" invalid literal for int() with base 10: ''"
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" Field 'id' expected a number but got ''."
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" not enough values to unpack (expected 2, got 1)"
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"DecodeError:",
+        "descricao":" Not enough segments"
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"NameError:",
+        "descricao":" name 'jwt' is not defined"
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"OSError:",
+        "descricao":" write error"
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/users\/create"
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/company\/list"
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"mainservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"UndefinedValueError:",
+        "descricao":" DB_ICMAIN_NAME not found. Declare it as envvar or define a default value."
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" invalid literal for int() with base 10: ''"
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" Field 'id' expected a number but got ''."
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" not enough values to unpack (expected 2, got 1)"
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"DecodeError:",
+        "descricao":" Not enough segments"
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"NameError:",
+        "descricao":" name 'jwt' is not defined"
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"OSError:",
+        "descricao":" write error"
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/users\/create"
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/company\/list"
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"mailservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"UndefinedValueError:",
+        "descricao":" DB_ICMAIN_NAME not found. Declare it as envvar or define a default value."
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" invalid literal for int() with base 10: ''"
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" Field 'id' expected a number but got ''."
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" not enough values to unpack (expected 2, got 1)"
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"DecodeError:",
+        "descricao":" Not enough segments"
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"NameError:",
+        "descricao":" name 'jwt' is not defined"
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"OSError:",
+        "descricao":" write error"
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/users\/create"
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/company\/list"
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"botservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"UndefinedValueError:",
+        "descricao":" DB_ICMAIN_NAME not found. Declare it as envvar or define a default value."
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" invalid literal for int() with base 10: ''"
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" Field 'id' expected a number but got ''."
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" not enough values to unpack (expected 2, got 1)"
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"DecodeError:",
+        "descricao":" Not enough segments"
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"NameError:",
+        "descricao":" name 'jwt' is not defined"
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"OSError:",
+        "descricao":" write error"
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/users\/create"
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/company\/list"
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"reposervice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"UndefinedValueError:",
+        "descricao":" DB_ICMAIN_NAME not found. Declare it as envvar or define a default value."
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" invalid literal for int() with base 10: ''"
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" Field 'id' expected a number but got ''."
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" not enough values to unpack (expected 2, got 1)"
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"DecodeError:",
+        "descricao":" Not enough segments"
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"NameError:",
+        "descricao":" name 'jwt' is not defined"
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"OSError:",
+        "descricao":" write error"
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/users\/create"
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/company\/list"
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"simulationservice",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"UndefinedValueError:",
+        "descricao":" DB_ICMAIN_NAME not found. Declare it as envvar or define a default value."
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" invalid literal for int() with base 10: ''"
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" Field 'id' expected a number but got ''."
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"ValueError:",
+        "descricao":" not enough values to unpack (expected 2, got 1)"
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"DecodeError:",
+        "descricao":" Not enough segments"
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"NameError:",
+        "descricao":" name 'jwt' is not defined"
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"OSError:",
+        "descricao":" write error"
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/users\/create"
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Internal Server Error:",
+        "descricao":" \/api\/company\/list"
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    },
+    {
+        "microservice":"userauthservice_new",
+        "timestamp":"31\/08\/2022 19:22",
+        "tipoErro":"Broken pipe",
+        "descricao":" [core\/writer.c line 248] during GET \/api\/company\/list (45.65.222.116)"
+    }
+]

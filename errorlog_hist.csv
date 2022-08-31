@@ -1,0 +1,67 @@
+microservice,timestamp,tipoErro,descricao
+mainservice,31/08/2022 19:22,UndefinedValueError:, DB_ICMAIN_NAME not found. Declare it as envvar or define a default value.
+mainservice,31/08/2022 19:22,ValueError:, invalid literal for int() with base 10: ''
+mainservice,31/08/2022 19:22,ValueError:, Field 'id' expected a number but got ''.
+mainservice,31/08/2022 19:22,ValueError:," not enough values to unpack (expected 2, got 1)"
+mainservice,31/08/2022 19:22,DecodeError:, Not enough segments
+mainservice,31/08/2022 19:22,NameError:, name 'jwt' is not defined
+mainservice,31/08/2022 19:22,OSError:, write error
+mainservice,31/08/2022 19:22,Internal Server Error:, /api/users/create
+mainservice,31/08/2022 19:22,Internal Server Error:, /api/company/list
+mainservice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+mainservice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+mailservice,31/08/2022 19:22,UndefinedValueError:, DB_ICMAIN_NAME not found. Declare it as envvar or define a default value.
+mailservice,31/08/2022 19:22,ValueError:, invalid literal for int() with base 10: ''
+mailservice,31/08/2022 19:22,ValueError:, Field 'id' expected a number but got ''.
+mailservice,31/08/2022 19:22,ValueError:," not enough values to unpack (expected 2, got 1)"
+mailservice,31/08/2022 19:22,DecodeError:, Not enough segments
+mailservice,31/08/2022 19:22,NameError:, name 'jwt' is not defined
+mailservice,31/08/2022 19:22,OSError:, write error
+mailservice,31/08/2022 19:22,Internal Server Error:, /api/users/create
+mailservice,31/08/2022 19:22,Internal Server Error:, /api/company/list
+mailservice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+mailservice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+botservice,31/08/2022 19:22,UndefinedValueError:, DB_ICMAIN_NAME not found. Declare it as envvar or define a default value.
+botservice,31/08/2022 19:22,ValueError:, invalid literal for int() with base 10: ''
+botservice,31/08/2022 19:22,ValueError:, Field 'id' expected a number but got ''.
+botservice,31/08/2022 19:22,ValueError:," not enough values to unpack (expected 2, got 1)"
+botservice,31/08/2022 19:22,DecodeError:, Not enough segments
+botservice,31/08/2022 19:22,NameError:, name 'jwt' is not defined
+botservice,31/08/2022 19:22,OSError:, write error
+botservice,31/08/2022 19:22,Internal Server Error:, /api/users/create
+botservice,31/08/2022 19:22,Internal Server Error:, /api/company/list
+botservice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+botservice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+reposervice,31/08/2022 19:22,UndefinedValueError:, DB_ICMAIN_NAME not found. Declare it as envvar or define a default value.
+reposervice,31/08/2022 19:22,ValueError:, invalid literal for int() with base 10: ''
+reposervice,31/08/2022 19:22,ValueError:, Field 'id' expected a number but got ''.
+reposervice,31/08/2022 19:22,ValueError:," not enough values to unpack (expected 2, got 1)"
+reposervice,31/08/2022 19:22,DecodeError:, Not enough segments
+reposervice,31/08/2022 19:22,NameError:, name 'jwt' is not defined
+reposervice,31/08/2022 19:22,OSError:, write error
+reposervice,31/08/2022 19:22,Internal Server Error:, /api/users/create
+reposervice,31/08/2022 19:22,Internal Server Error:, /api/company/list
+reposervice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+reposervice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+simulationservice,31/08/2022 19:22,UndefinedValueError:, DB_ICMAIN_NAME not found. Declare it as envvar or define a default value.
+simulationservice,31/08/2022 19:22,ValueError:, invalid literal for int() with base 10: ''
+simulationservice,31/08/2022 19:22,ValueError:, Field 'id' expected a number but got ''.
+simulationservice,31/08/2022 19:22,ValueError:," not enough values to unpack (expected 2, got 1)"
+simulationservice,31/08/2022 19:22,DecodeError:, Not enough segments
+simulationservice,31/08/2022 19:22,NameError:, name 'jwt' is not defined
+simulationservice,31/08/2022 19:22,OSError:, write error
+simulationservice,31/08/2022 19:22,Internal Server Error:, /api/users/create
+simulationservice,31/08/2022 19:22,Internal Server Error:, /api/company/list
+simulationservice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+simulationservice,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+userauthservice_new,31/08/2022 19:22,UndefinedValueError:, DB_ICMAIN_NAME not found. Declare it as envvar or define a default value.
+userauthservice_new,31/08/2022 19:22,ValueError:, invalid literal for int() with base 10: ''
+userauthservice_new,31/08/2022 19:22,ValueError:, Field 'id' expected a number but got ''.
+userauthservice_new,31/08/2022 19:22,ValueError:," not enough values to unpack (expected 2, got 1)"
+userauthservice_new,31/08/2022 19:22,DecodeError:, Not enough segments
+userauthservice_new,31/08/2022 19:22,NameError:, name 'jwt' is not defined
+userauthservice_new,31/08/2022 19:22,OSError:, write error
+userauthservice_new,31/08/2022 19:22,Internal Server Error:, /api/users/create
+userauthservice_new,31/08/2022 19:22,Internal Server Error:, /api/company/list
+userauthservice_new,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
+userauthservice_new,31/08/2022 19:22,Broken pipe, [core/writer.c line 248] during GET /api/company/list (45.65.222.116)
